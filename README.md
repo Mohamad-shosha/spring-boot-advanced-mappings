@@ -106,6 +106,3 @@ You can view a demo of the application [here](https://github.com/yourusername/sp
 * [Hibernate Documentation](https://hibernate.org/orm/documentation/)
 * [MySQL Documentation](https://dev.mysql.com/doc/)
 
----
-
-Feel free to modify this README to better fit your project. For issues or contributions, please visit the [GitHub repository](https://github.com/yourusername/spring-boot-advanced-mappings).
