@@ -95,9 +95,6 @@ Run your Spring Boot application. It will start a server at `http://localhost:80
 * MySQL Workbench 8.0 CE
 * Postman
 
-## 🎥 Demo
-
-You can view a demo of the application [here](https://github.com/yourusername/spring-boot-advanced-mappings/assets/demo-link).
 
 ## 🗂️ Resources
 
